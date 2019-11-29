@@ -9,7 +9,3 @@ Possible improvements
 ---------------------
 * Use JSON instead of my own string formatting, just to be more in line with convention.
 * Double check that the settings byte is set correctly for maximum precision.
-
-Contact
--------
-S Williams, github.com/imClot
